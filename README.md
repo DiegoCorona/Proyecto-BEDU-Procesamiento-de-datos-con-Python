@@ -15,21 +15,16 @@ Con el proposito de realizar análisis exploratorio y posteriormente proponer un
 
 Mediante el uso de sensores se registro la clasificación de la repetición conforme a lo siguiente:
 
-Clase A: La repetición se realizó correctamente.
-
-Clase B: La persona lanza los codos hacía el frente al hacer la repetición.
-
-Clase C: La persona levanta la mancuerna solo a la mitad.
-
-Clase D: La persona baja la mancuerna solo hasta la mitad.
-
-Clase E: La persona arroja la cadera hacía el frente al hacer la repetición.
+* Clase A: La repetición se realizó correctamente.
+* Clase B: La persona lanza los codos hacía el frente al hacer la repetición.
+* Clase C: La persona levanta la mancuerna solo a la mitad.
+* Clase D: La persona baja la mancuerna solo hasta la mitad.
+* Clase E: La persona arroja la cadera hacía el frente al hacer la repetición.
 
 Dicho lo anterior, el problema básico se divide en dos partes:
 
-Procesamiento de los datos, limpieza y optimización.
-
-Desarrollo de un modelo predictivo que, con un nivel de confianza alto, prediga los casos en ejemplos nunca antes vistos.]
+1. Procesamiento de los datos, limpieza y optimización.
+2. Desarrollo de un modelo predictivo que, con un nivel de confianza alto, prediga los casos en ejemplos nunca antes vistos.]
 
 # Desarrollo y resultados:
 
