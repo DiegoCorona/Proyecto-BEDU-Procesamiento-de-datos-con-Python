@@ -1,6 +1,6 @@
 # Proyecto-BEDU-Procesamiento-de-datos-con-Python
 
-Es presente proyecto fue realizado por: 
+El presente proyecto fue realizado por: 
 
 * Viridiana Escarzaga Solis.
 * Carlos Sebastián Madrigal Rodríguez.
