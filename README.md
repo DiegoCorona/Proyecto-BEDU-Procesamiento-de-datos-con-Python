@@ -24,7 +24,7 @@ Mediante el uso de sensores se registro la clasificación de la repetición conf
 Dicho lo anterior, el problema básico se divide en dos partes:
 
 1. Procesamiento de los datos, limpieza y optimización.
-2. Desarrollo de un modelo predictivo que, con un nivel de confianza alto, prediga los casos en ejemplos nunca antes vistos.]
+2. Desarrollo de un modelo predictivo que, con un nivel de confianza alto, prediga los casos en ejemplos nunca antes vistos.
 
 # Desarrollo y resultados:
 
