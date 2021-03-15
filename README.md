@@ -30,7 +30,7 @@ Dicho lo anterior, el problema básico se divide en dos partes:
 
 El script de lo realizado lo encuentra aqui: [Proyecto-BEDU-Procesamiento-de-datos-con-Python](https://github.com/DiegoCorona/Proyecto-BEDU-Procesamiento-de-datos-con-Python/blob/main/Proyecto_BEDU_Procesamiento_de_datos_con_Python.ipynb)
 
-Nuestro vídeo lo puede encontrar en la siguiente liga: []()
+Nuestro vídeo lo puede encontrar en la siguiente liga: https://www.youtube.com/watch?v=5w4WdEtkJHI
 
 Los dataset utilizados los encuentra en los documentos adjuntos. 
 
